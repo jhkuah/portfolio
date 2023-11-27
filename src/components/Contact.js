@@ -4,18 +4,18 @@ import { MailIcon, GlobeAltIcon, ChatAlt2Icon } from "@heroicons/react/solid";
 const contactInfo = [
   {
     icon: MailIcon,
-    text: "your.email@example.com",
-    link: "mailto:your.email@example.com",
+    text: "kjh_1997@hotmail.com",
+    link: "mailto:kjh_1997@hotmail.com",
   },
   {
     icon: GlobeAltIcon,
-    text: "Your LinkedIn Profile",
-    link: "https://www.linkedin.com/in/yourlinkedin/",
+    text: "LinkedIn",
+    link: "https://www.linkedin.com/in/jhkuah/",
   },
   {
     icon: ChatAlt2Icon,
-    text: "Your GitHub Profile",
-    link: "https://github.com/yourgithub/",
+    text: "GitHub",
+    link: "https://github.com/jhkuah",
   },
 ];
 
@@ -26,7 +26,7 @@ export default function Contact() {
         <div className="text-center mb-20">
           <ChatAlt2Icon className="w-10 inline-block mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-            Contact Me
+            Connect with Me
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
