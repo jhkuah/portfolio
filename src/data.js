@@ -22,6 +22,13 @@ export const projects = [
     image: "./user-input.gif",
     link: "https://jhkuah.github.io/UserInput/",
   },
+  {
+    title: "Todo App",
+    subtitle: "React",
+    description: "Simple todo app to test basics of React development",
+    image: "./todo-app.gif",
+    link: "https://jhkuah-todo.netlify.app",
+  },
 ];
 
 export const skills = [
